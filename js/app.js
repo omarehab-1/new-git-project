@@ -1,3 +1,2 @@
-let add = ()=>{document.getElementById("hello").innerHTML("HELLO WORLD!!!")}
-add()
+let add = document.getElementById("h").innerHTML = "HELLO WORLD !!"; 
 
